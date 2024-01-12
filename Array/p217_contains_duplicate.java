@@ -1,4 +1,5 @@
 import java.util.*;
+
 class Solution {
     public boolean containsDuplicate(int[] nums) {
         if (nums == null || nums.length == 0) {
